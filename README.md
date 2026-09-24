@@ -2,16 +2,6 @@
 
 Buckshot Shell tracker for Roblox. A useful app for Roblox Buckshot players, to help them track and log there shots
 
-
-
-
-
-
-
-
-
-
-
 ## Features
 - Track live/blank shots
 - Full live/blank shots history
@@ -23,11 +13,11 @@ Buckshot Shell tracker for Roblox. A useful app for Roblox Buckshot players, to 
 <img width="742" height="664" alt="image" src="https://github.com/user-attachments/assets/eb467cef-fdf5-4f49-b3ae-6ef2c72e7d46" />
 
 ## How to use
-1 .After running the Roulette_tracker.exe, the main UI will appear, containing the Round Setup, where you apply the number of blank/live shells. Then, you can start.
-2 . After starting, the number of left shots will appear, as well as the number of the current shot. After each shot, you can apply whether it was live or blank so that it can appear in the Shot History log.
-3 . Predictions are used to count the round of the shot that appears on the phone, whether it is blank or live. (Note: It counts from your current turn only.)
-4 . If you mis clicked a shot, you can use the Undo button to undo your last move.
-5 . After the end of each round, you have to use Reset to delete all the Shot History logs.
+- After running the Roulette_tracker.exe, the main UI will appear, containing the Round Setup, where you apply the number of blank/live shells. Then, you can start.
+- After starting, the number of left shots will appear, as well as the number of the current shot. After each shot, you can apply whether it was live or blank so that it can appear in the Shot History log.
+- Predictions are used to count the round of the shot that appears on the phone, whether it is blank or live. (Note: It counts from your current turn only.)
+- If you mis clicked a shot, you can use the Undo button to undo your last move.
+- After the end of each round, you have to use Reset to delete all the Shot History logs.
 
 ## How to Download
 Grab the latest `.exe` from the [Releases](../../releases) page — no installation needed, just run it.
