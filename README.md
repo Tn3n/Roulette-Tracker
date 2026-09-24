@@ -1,15 +1,18 @@
 # Buckshot Roulette Tracker
 
-Buckshot Roulette Tracker for Roblox — a desktop companion app that helps you track live/blank shells, log your shot history, and save predictions while playing.
+Buckshot Shell tracker for Roblox. A useful app for Roblox Buckshot players, to help them track and log there shots
 
 ## Features
-- Track live and blank shell counts in real time
-- Full shot history log with scroll support
+- Track live/blank shots
+- Full live/blank shots history
 - Save predictions for upcoming shells and get notified when they come up
 - Undo/Edit last shot if you misclick
 - Clean, transparent UI with custom background support
 
-## Download
+## Preview
+<img width="750" height="671" alt="image" src="https://github.com/user-attachments/assets/0b657eee-adbf-4e4e-a1b5-77239274dbfb" />
+
+## How to Download
 Grab the latest `.exe` from the [Releases](../../releases) page — no installation needed, just run it.
 
 ## Requirements
