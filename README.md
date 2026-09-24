@@ -31,6 +31,7 @@ Some antivirus engines may flag this app as a false positive. This is a known, c
 
 ## Credits
 - Developed by: r4aage
+- Assistant : hyouka191
 - Anime: Silent Witch
 - Background source: r/TheSilentWitch (Banner)
 - Icon Source: Nero - Studio Gokumi
