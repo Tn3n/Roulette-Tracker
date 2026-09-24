@@ -2,6 +2,8 @@
 
 Buckshot Shell tracker for Roblox. A useful app for Roblox Buckshot players, to help them track and log there shots
 
+
+
 ## Features
 - Track live/blank shots
 - Full live/blank shots history
@@ -9,18 +11,28 @@ Buckshot Shell tracker for Roblox. A useful app for Roblox Buckshot players, to 
 - Undo/Edit last shot if you misclick
 - Clean, transparent UI with custom background support
 
+
+
 ## Preview
-<img width="750" height="671" alt="image" src="https://github.com/user-attachments/assets/0b657eee-adbf-4e4e-a1b5-77239274dbfb" />
+<img width="750" height="678" alt="image" src="https://github.com/user-attachments/assets/9ddd9f5d-5512-4022-b9b2-2883edf2347e" />
+
+
 
 ## How to Download
 Grab the latest `.exe` from the [Releases](../../releases) page — no installation needed, just run it.
+
+
 
 ## Requirements
 - Windows 10/11
 - If the app doesn't launch, you may need to install the [Microsoft Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 
+
+
 ## Note on Antivirus Warnings
 Some antivirus engines may flag this app as a false positive. This is a known, common issue with Python apps packaged using PyInstaller. The source code is fully available in this repository for anyone who wants to verify it themselves.
+
+
 
 ## Credits
 - Developed by: r4aage
