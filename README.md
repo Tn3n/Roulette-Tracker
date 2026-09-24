@@ -4,6 +4,14 @@ Buckshot Shell tracker for Roblox. A useful app for Roblox Buckshot players, to 
 
 
 
+
+
+
+
+
+
+
+
 ## Features
 - Track live/blank shots
 - Full live/blank shots history
@@ -38,5 +46,6 @@ Some antivirus engines may flag this app as a false positive. This is a known, c
 - Icon Source: Nero - Studio Gokumi
 - ©2024 Matsuri Isora, Nanna Fujimi / KADOKAWA / Serendia Academy PR
 - Art by their respective creators
+  
 ## License
 See [LICENSE](LICENSE) for usage terms.
